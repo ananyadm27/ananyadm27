@@ -16,7 +16,6 @@
 - 🗄️ **Database:** Oracle SQL
 - 🧩 **Core Focus:** Data Structures & Algorithms, OOPs Concepts
 - 🛠️ **Tools:** VS Code, Git/GitHub
-- ⚙️ **DevOps:** Jenkins, Basics of CI/CD
 - 📊 **Data Analytics:** Exploring data-driven problem solving
 
 ---
